@@ -21,6 +21,7 @@ void main ()
 	do
 	{
 
+	// Hello
 
 		cout << "Quelle methode voulez-vous tester ?	 " << endl;
 		cout << "1 -  Avancer le Robot					 " << endl;
