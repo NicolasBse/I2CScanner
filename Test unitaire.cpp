@@ -1,8 +1,8 @@
 //********************************************************
-// Auteur : MP Pinaud
-// date : 26/9/2017
-// fichier: test_CRobotPekee.cpp
-// Programme de test unitaire de la classe CRobotPekee
+//* 		Auteur : MP Pinaud							 *
+//* 		date : 26/9/2017							 *
+//* 		fichier: test_CRobotPekee.cpp				 *
+//*  Programme de test unitaire de la classe CRobotPekee *
 //********************************************************
 #include <iostream>
 #include «WRobotPekee.h»
